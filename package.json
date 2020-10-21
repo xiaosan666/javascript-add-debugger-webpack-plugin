@@ -1,6 +1,6 @@
 {
   "name": "javascript-add-debugger-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack插件，给.js文件添加 setInterval(() => {debugger}, seconds); 以阻止用户调试js代码",
   "main": "index.js",
   "scripts": {
